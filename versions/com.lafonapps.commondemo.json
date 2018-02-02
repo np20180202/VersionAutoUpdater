@@ -1,0 +1,35 @@
+{
+  "oppo": {
+    "update_logs": [
+      "增加美颜功能",
+      "增加手动选择轮廓",
+      "增加裁剪功能",
+      "修复bug"
+    ],
+    "version_code": 100,
+    "version_name": "10.0",
+    "update_policy": 1
+  },
+  "xiaomi": {
+    "update_logs": [
+      "增加美颜功能",
+      "增加手动选择轮廓",
+      "增加裁剪功能",
+      "修复bug"
+    ],
+    "version_code": 6,
+    "version_name": "1.2.3",
+    "update_policy": 2
+  },
+  "vivo": {
+    "update_logs": [
+      "增加美颜功能",
+      "增加手动选择轮廓",
+      "增加裁剪功能",
+      "修复bug"
+    ],
+    "version_code": 11,
+    "version_name": "1.5",
+    "update_policy": 0
+  }
+}
