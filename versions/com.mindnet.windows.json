@@ -7,6 +7,6 @@
     "version_code": "1.1.10",
     "version_name": "1.1.10",
     "update_policy": 1,
-    "download_url":"http://192.168.0.100/MindNet_Installer.zip"
+    "download_url":"http://10.10.100.94/MindNet_Installer.zip"
   }
 }
